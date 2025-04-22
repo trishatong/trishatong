@@ -4,6 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=trishatong&show_icons=true&theme=dark&hide_border=true" align="right" style="margin-bottom: 20px;"/>
 
+
 🎓 I'm currently a senior at the [University of California, San Diego](https://ucsd.edu) with a B.S. in Computer Science and a minor in Business!
 
 💻 I enjoy learning all things software engineering — recently, I’ve been exploring UI/UX design and working with APIs.
