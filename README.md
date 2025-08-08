@@ -3,11 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisha-tong-950a25230/)
 <img src="https://github-readme-stats.vercel.app/api?username=trishatong&show_icons=true&theme=dark&hide_border=true" align="right"/>
  
-🎓 I'm currently a senior at the [University of California, San Diego](https://ucsd.edu) with a B.S. in Computer Science and a minor in Business!
+🎓 I'm recently graduated from the [University of California, San Diego](https://ucsd.edu) with a B.S. in Computer Science and a minor in Business!
 
 💻 I enjoy learning all things software engineering — recently, I’ve been exploring UI/UX design and working with APIs.
 
-🧸 Right now, I'm a Web Developer for [TEDxUCSD](https://tedxucsd.com/)!
+🧸 Right now, I'm doing both back-end and front-end development for MissionGoCenter. Before this, I was a Web Developer for [TEDxUCSD](https://tedxucsd.com/)!
 
 ⭐ In my free time, I love doing anything active - 🏃🏻‍♀️ running, 🏐 playing volleyball, and 🏄🏻‍♀️ surfing to name a few!
 
@@ -30,11 +30,13 @@
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
 ![Figma](https://img.icons8.com/color/30/figma--v1.png)
+![AWS](https://img.icons8.com/color/30/amazon-web-services.png)
+![Firebase](https://img.icons8.com/color/30/firebase.png)
+![Confluence](https://img.icons8.com/color/30/confluence.png)
+![Jira](https://img.icons8.com/color/30/jira.png)
+
 
 🧪 Tools I'm learning about right now!
 
-![AWS](https://img.icons8.com/color/30/amazon-web-services.png)
-![Firebase](https://img.icons8.com/color/30/firebase.png)
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="30" alt="Cloudflare" />
-![Confluence](https://img.icons8.com/color/30/confluence.png)
-![Jira](https://img.icons8.com/color/30/jira.png)
+![MySQL](https://img.icons8.com/color/30/mysql-logo.png)
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png) 
