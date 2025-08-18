@@ -7,7 +7,7 @@
 
 💻 I enjoy learning all things software engineering — recently, I’ve been exploring UI/UX design and working with APIs.
 
-🧸 Right now, I'm doing both back-end and front-end development for MissionGoCenter. Before this, I was a Web Developer for [TEDxUCSD](https://tedxucsd.com/)!
+🧸 Right now, I'm working on both backend and frontend development for MissionGoCenter. Before this, I was a Web Developer for [TEDxUCSD](https://tedxucsd.com/)!
 
 ⭐ In my free time, I love doing anything active - 🏃🏻‍♀️ running, 🏐 playing volleyball, and 🏄🏻‍♀️ surfing to name a few!
 
