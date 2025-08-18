@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisha-tong-950a25230/)
 <img src="https://github-readme-stats.vercel.app/api?username=trishatong&show_icons=true&theme=dark&hide_border=true" align="right"/>
  
-🎓 I'm recently graduated from the [University of California, San Diego](https://ucsd.edu) with a B.S. in Computer Science and a minor in Business!
+🎓 I recently graduated from the [University of California, San Diego](https://ucsd.edu) with a B.S. in Computer Science and a minor in Business!
 
 💻 I enjoy learning all things software engineering — recently, I’ve been exploring UI/UX design and working with APIs.
 
