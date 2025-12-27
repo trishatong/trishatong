@@ -1,7 +1,7 @@
 ## Hello! I'm Trisha 😄 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=trishatong.trishatong)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishahtong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisha-tong-950a25230/)
-<img src="https://github-readme-stats.vercel.app/api?username=trishatong&show_icons=true&theme=dark&hide_border=true" align="right"/>
+<img src="github-readme-stats-tau-mauve-46.vercel.app/api?username=trishatong&show_icons=true&theme=dark&hide_border=true" align="right"/>
  
 🎓 I recently graduated from the [University of California, San Diego](https://ucsd.edu) with a B.S. in Computer Science and a minor in Business!
 
