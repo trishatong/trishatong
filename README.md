@@ -39,4 +39,4 @@
 🧪 Tools I'm learning about right now!
 
 ![MySQL](https://img.icons8.com/color/30/mysql-logo.png)
-![C#](https://img.icons8.com/color/30/c-sharp-logo.png) 
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="30" height="30" />
