@@ -7,7 +7,7 @@
 
 💻 I enjoy learning all things software engineering — recently, I’ve been exploring prompt engineering and Claude Code.
 
-🚀 Right now, I'm working as a Full-Stack Developer @ TCWGlobal.
+🚀 Right now, I'm working as a Full Stack Developer @ TCWGlobal.
 
 ⭐ In my free time, I love doing anything active - 🏃🏻‍♀️ running, 🏐 playing volleyball, and 🏄🏻‍♀️ surfing to name a few!
 
